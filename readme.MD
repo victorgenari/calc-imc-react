@@ -1,4 +1,4 @@
-# Mini projeto realizado mostrando uma 'Calculadora IMC' em REACT/JAVASCRIPT:
+# Mini projeto realizado mostrando uma 'Calculadora IMC' em React.js:
 
 O conteúdo em código fornece layouts diferenciados com HTML/SCSS.
 
